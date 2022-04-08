@@ -11,7 +11,7 @@ This is a menu driven program with the following specifications
 3. Handle ATM Operations  //for users
       i) Check balance
       ii) Withdraw money
-            -Coded according to the given constraints(refer to problem statement.txt)
+            -Coded according to the given constraints
       iii)Transfer money
             -ATM balance will not be disturbed while money transfer.
 4. Check ATM balance  // for users
